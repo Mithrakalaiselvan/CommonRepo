@@ -1,0 +1,19 @@
+{
+  "name": "customer-relations-management",
+  "version": "1.0.0",
+  "description": "\"Doing CRUD operations\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mithra",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.3",
+    "mongoose": "^4.5.4",
+    "morgan": "^1.7.0"
+  }
+}
